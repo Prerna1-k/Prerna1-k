@@ -6,18 +6,18 @@ IOperation
 Method->Calculate 
 
 **Derived Classes from IOperation:**
-AddOperation
-DivideOperation
-MultiplyOperation
+AddOperation,
+DivideOperation,
+MultiplyOperation,
 
 **Base Class:**
 IOPerationFactory-
 Method->createoperation
 
 **Dervived Class frrom c:**
-AddOperationFactory
-DivideOperationFactory
-MultiplyOperationFcatory
+AddOperationFactory,
+DivideOperationFactory,
+MultiplyOperationFcatory,
 
 Logger class will have same hierarchy as discussed in class.
 Main Class will have access to AbstractFcatory which will create objects for LoggerFactory and IOPerationFactory.
