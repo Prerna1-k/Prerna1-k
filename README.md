@@ -1,4 +1,4 @@
-The codis basically to support error logging and basic operations in calculator. This will handle exceptions like divide zero gracefully. 
+The cod is basically to support  basic operations  and logging in calculator. This code will handle exceptions gracefully. 
 In the code have tried to encorporate Factory design pattern as far as possible.
 
 **Base class:**
@@ -37,3 +37,4 @@ Input 2:0
 ERROR : Math error: Attempted to divide by Zero
 
 Program ended with exit code: 0
+
